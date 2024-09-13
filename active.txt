@@ -1,0 +1,4 @@
+cd app
+./start.sh
+
+chat.tsx

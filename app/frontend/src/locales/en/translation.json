@@ -1,6 +1,6 @@
 {
-    "pageTitle": "Azure OpenAI + AI Search",
-    "headerTitle": "Azure OpenAI + AI Search",
+    "pageTitle": "PR1MA AI Assistant",
+    "headerTitle": "PR1MA AI Assistant",
     "chat": "Chat",
     "qa": "Ask a question",
     "login": "Login",
@@ -21,13 +21,13 @@
     },
     "developerSettings": "Developer settings",
 
-    "chatEmptyStateTitle": "Chat with your data",
+    "chatEmptyStateTitle": "PR1MA AI-ASSISTANT",
     "chatEmptyStateSubtitle": "Ask anything or try an example",
     "defaultExamples": {
-        "1": "What is included in my Northwind Health Plus plan that is not in standard?",
+        "1": "List all PR1MA ongoing projects.",
         "2": "What happens in a performance review?",
         "3": "What does a Product Manager do?",
-        "placeholder": "Type a new question (e.g. does my plan cover annual eye exams?)"
+        "placeholder": "Type a new question (e.g. kkkkkkkkkkkkkkkkkkkkkkkkkkk?)"
     },
     "askTitle": "Ask your data",
     "gpt4vExamples": {
