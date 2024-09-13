@@ -1,6 +1,6 @@
 {
     "pageTitle": "PR1MA AI Assistant",
-    "headerTitle": "PR1MA AI Assistant",
+    "headerTitle": "PR1MA CORPORATION MALAYSIA",
     "chat": "Chat",
     "qa": "Ask a question",
     "login": "Login",
@@ -22,12 +22,12 @@
     "developerSettings": "Developer settings",
 
     "chatEmptyStateTitle": "PR1MA AI-ASSISTANT",
-    "chatEmptyStateSubtitle": "Ask anything or try an example",
+    "chatEmptyStateSubtitle": "Search documents or Ask anything ",
     "defaultExamples": {
-        "1": "List all PR1MA ongoing projects.",
-        "2": "What happens in a performance review?",
-        "3": "What does a Product Manager do?",
-        "placeholder": "Type a new question (e.g. kkkkkkkkkkkkkkkkkkkkkkkkkkk?)"
+        "1": "List Central Region active projects",
+        "2": "Show me the most recent contractors",
+        "3": "List out Eligibility Criteria  PR1MA homes",
+        "placeholder": "Type here to search projects (e.g., by Project Code or Name)?)"
     },
     "askTitle": "Ask your data",
     "gpt4vExamples": {
